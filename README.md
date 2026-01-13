@@ -12,17 +12,17 @@ Web приложение каталог книг.
 Технологии: java, Spring, flyway, hibernate, maven, postgres. Фронтенд Thymeleaf.
 
 ## Главная страница (вывод 10 последних добавленных)
-![img](Screenshots/Главная%20страница.png)
+![img](Screenshots/Главная-страница.png)
 ## Страница Авторы
 ![img](Screenshots/авторы.png)
 ## Переход по автору
-![img](Screenshots/Переход%20по%20автору.png)
+![img](Screenshots/Переход-по-автору.png)
 ## Страница с книгами (по алафвиту)
-![img](Screenshots/Список%20книг.png)
+![img](Screenshots/Список-книг.png)
 ## Переход на страницу книги
-![img](Screenshots/Переход%20по%20книге.png)
+![img](Screenshots/Переход-по-книге.png)
 ## Страница добавления книги
-![img](Screenshots/Страница%20добавления%20книги.png)
+![img](Screenshots/Страница-добавления-книги.png)
 
 
 
